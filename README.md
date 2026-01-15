@@ -16,6 +16,7 @@ Par🇮🇹le è creato e mantenuto da [@pietroppeter](https://github.com/pietro
 - Database ufficiale di WORDLE-IT di [@pietroppeter](https://github.com/pietroppeter)
 
 ## Come utilizzarlo
+<img width="500" height="342" alt="image" src="https://github.com/user-attachments/assets/914c8c83-f4aa-4139-8918-29c3a8c2fda6" align="center"/>
 
 1. Vai su [Risolvitore WORDLE IT](https://veronne2010.github.io/risolvitoreWORDLEIT/)
 2. Inserisci le informazioni che hai ottenuto dalle tue partite a Wordle.
